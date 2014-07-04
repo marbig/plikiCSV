@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1404460433 source:/home/student/Desktop/Lab21_1/Macierz.cpp
+	"Macierz.h"
+
+1404460433 /home/student/Desktop/Lab21_1/Macierz.h
+	<vector>
+	<stdlib.h>
+	<iostream>
+	<assert.h>
+	<fstream>
+	<map>
+
+1404462396 source:/home/student/Desktop/Lab21_1/main.cpp
+	"Macierz.h"
+
+1404462396 source:/home/student/Desktop/CSV/main.cpp
+	"Macierz.h"
+
+1404460433 /home/student/Desktop/CSV/Macierz.h
+	<vector>
+	<stdlib.h>
+	<iostream>
+	<assert.h>
+	<fstream>
+	<map>
+
+1404463207 source:/home/student/Desktop/CSV/Macierz.cpp
+	"Macierz.h"
+
